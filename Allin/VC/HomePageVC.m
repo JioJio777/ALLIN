@@ -27,6 +27,7 @@
         [self requestPriceWithCoinName:@"APT"];
         [self requestPriceWithCoinName:@"CFX"];
         //test git
+        //test git2
 
     }];
     
