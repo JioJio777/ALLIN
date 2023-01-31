@@ -26,6 +26,7 @@
         [self requestPriceWithCoinName:@"ETH"];
         [self requestPriceWithCoinName:@"APT"];
         [self requestPriceWithCoinName:@"CFX"];
+        //test git
 
     }];
     
